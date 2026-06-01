@@ -1,0 +1,92 @@
+[
+  {
+    "id": "rep-2026-026",
+    "title": "数理金融の基礎：オプション価格・リスク管理・ポートフォリオ理論から見る数理金融の基本概念",
+    "authors": "e 2018",
+    "date": "2026-05-30",
+    "category": "Mathematical Finance",
+    "version": "v1",
+    "abstract": "",
+    "keywords": [
+      "option pricing",
+      "risk management",
+      "portfolio theory"
+    ],
+    "file": "uploads/1780148272793-mathematical_fnance_report.pdf"
+  },
+  {
+    "id": "rep-2026-025",
+    "title": "確率過程の基礎：マルコフ過程・ブラウン運動・確率微分方程式から見る確率過程の基本概念",
+    "authors": "e 2018",
+    "date": "2026-05-30",
+    "category": "Stochastic Processes",
+    "version": "v1",
+    "abstract": "",
+    "keywords": [
+      "Markov process Brownian motion stochastic differential equations"
+    ],
+    "file": "uploads/1780134710917-stochastic_processes_report.pdf"
+  },
+  {
+    "id": "rep-2026-001",
+    "title": "線型代数の基礎：行列から行列式へ",
+    "authors": "e 2018",
+    "date": "2026-05-29",
+    "category": "Linear Algebra",
+    "version": "v1",
+    "abstract": "行列の基本操作、連立一次方程式、階数、正則性を中心に、行列式へ進む前段階を整理した準論文型レポート。",
+    "keywords": [
+      "matrix",
+      "rank",
+      "linear algebra"
+    ],
+    "file": "pdfs/linear_algebra_basic_report.pdf"
+  },
+  {
+    "id": "rep-2026-002",
+    "title": "関数解析におけるHilbert空間の基礎:完備性・直行性・射影・表現定理から見るHilbert空間",
+    "authors": "e 2018",
+    "date": "2026-05-29",
+    "category": "Functional Analysis",
+    "version": "v1",
+    "abstract": "Hilbert空間の基本概念、完備性、直行性、射影、表現定理について解説した準論文型レポート。",
+    "keywords": [
+      "Hilbert space",
+      "complete space",
+      "orthogonality",
+      "projection",
+      "representation theorem"
+    ],
+    "file": "pdfs/hilbert_space_report.pdf"
+  },
+  {
+    "id": "rep-2026-003",
+    "title": "微分積分学の基礎：極限・連続・微分から見る関数の性質",
+    "authors": "e 2018",
+    "date": "2026-05-29",
+    "category": "Calculus",
+    "version": "v1",
+    "abstract": "関数の極限、連続性、微分について解説した準論文型レポート。",
+    "keywords": [
+      "limit",
+      "continuity",
+      "differentiation"
+    ],
+    "file": "pdfs/limits_continuity_differentiation_report.pdf"
+  },
+  {
+    "id": "rep-2026-004",
+    "title": "確率論の基礎：確率空間・確率変数・期待値から見る確率の性質",
+    "authors": "e 2018",
+    "date": "2026-05-29",
+    "category": "Probability Theory",
+    "version": "v1",
+    "abstract": "確率空間、確率変数、期待値について解説した準論文型レポート。",
+    "keywords": [
+      "probability space",
+      "random variable",
+      "expectation"
+    ],
+    "file": "pdfs/probability_theory_report.pdf"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "my-report-archive",
+  "version": "1.0.0",
+  "description": "Password-protected personal PDF report archive.",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
