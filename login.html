@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Login | My Report Archive</title>
+  <meta name="description" content="My Report Archive login" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body class="login-body">
+  <canvas id="coordinateBackground" class="coord-bg" aria-hidden="true"></canvas>
+  <main class="login-shell">
+    <section class="login-panel glass-card">
+      <div class="brand-block">
+        <img class="brand-mark" src="assets/report-icon.png" alt="" />
+        <div>
+          <p class="eyebrow">Private Research Notes</p>
+          <h1>My Report Archive</h1>
+        </div>
+      </div>
+
+      <form id="loginForm" class="login-form">
+        <label>
+          <span>パスワード</span>
+          <input name="password" type="password" autocomplete="current-password" required autofocus />
+        </label>
+        <button class="button primary" type="submit">開く</button>
+        <p id="loginStatus" class="form-status" aria-live="polite"></p>
+      </form>
+    </section>
+  </main>
+
+  <script src="background.js"></script>
+  <script src="login.js"></script>
+</body>
+</html>
